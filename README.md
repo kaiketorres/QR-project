@@ -3,7 +3,7 @@
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 <div align="center">
-<h1>Curso HTML5 & CSS3 - Curso em Vídeo </h1>
+<h1>Projeto QR Frontend Mentor </h1>
 </div>
 
 # Bem-vindo! 👋 <a name="id01"></a>
