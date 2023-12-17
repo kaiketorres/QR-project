@@ -22,7 +22,7 @@ Concluido ✔️
 
 
 # &#X263A; Link
-Você pode accedar o Projeto pronto por esse link: https://kaiketorres.github.io/QR-project/
+Você pode acessar o Projeto pronto por esse link: https://kaiketorres.github.io/QR-project/
 
 Você pode acessar o Desafio pelo site: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
