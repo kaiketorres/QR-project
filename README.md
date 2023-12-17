@@ -2,8 +2,6 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-<a href="">Projeto QR</a>
-
 <div align="center">
 <h1>Curso HTML5 & CSS3 - Curso em Vídeo </h1>
 </div>
@@ -24,6 +22,8 @@ Concluido ✔️
 
 
 # &#X263A; Link
+Você pode accedar o Projeto pronto por esse link:https://kaiketorres.github.io/QR-project/
+
 Você pode acessar o Desafio pelo site: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 
